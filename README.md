@@ -2,8 +2,8 @@
 <h3 align="center">Aspiring Data Scientist | AI Engineer</h3>
 
 <p align="center">
-📍 India Tamil Nadu;Chennai;
-📧 <a href="mailto:yogaraaju25@gmail.com">yogaraaju25@gmail.com</a> &nbsp;•&nbsp;
+📍 Chennai, Tamil Nadu, India • 📧 <a href="mailto:yogaraaju25@gmail.com">yogaraaju25@gmail.com</a> • 🔗 <a href="https://www.linkedin.com/in/yogaraaj-u-836871302/">LinkedIn</a>
+
 <a href="https://www.linkedin.com/in/yogaraaj-u-836871302/">LinkedIn</a>
 </p>
 
