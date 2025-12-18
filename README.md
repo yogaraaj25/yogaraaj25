@@ -3,8 +3,6 @@
 
 <p align="center">
 📍 Chennai, Tamil Nadu, India • 📧 <a href="mailto:yogaraaju25@gmail.com">yogaraaju25@gmail.com</a> • 🔗 <a href="https://www.linkedin.com/in/yogaraaj-u-836871302/">LinkedIn</a>
-
-<a href="https://www.linkedin.com/in/yogaraaj-u-836871302/">LinkedIn</a>
 </p>
 
 <p align="center">
